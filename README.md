@@ -1,4 +1,4 @@
-# bspwm-rp
+# wmrp
 DiscordRP for bspwm
 
 ## What
