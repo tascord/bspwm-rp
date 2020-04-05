@@ -1,0 +1,16 @@
+{
+  "name": "bsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Hill <admin@tascord.ai> (https://tascord.ai)",
+  "license": "ISC",
+  "dependencies": {
+    "active-window": "^0.1.0",
+    "discord-rich-presence": "0.0.8"
+  }
+}
